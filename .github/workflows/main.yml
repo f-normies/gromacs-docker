@@ -11,7 +11,7 @@ env:
   # various parameters, such as gcc or cuda.
   fftw: 3.3.8
   gromacs: 2023.3
-  cmake: 3.17.1
+  cmake: 3.20.0
   gcc: 8
   cuda: 12.0.0
   openmpi: 4.0.0
